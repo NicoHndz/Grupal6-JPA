@@ -1,9 +1,10 @@
-package com.ejercicio6.jpa.services;
+package com.ejercicio6.jpa.services.serviceImpl;
 
 import java.util.HashMap;
 import java.util.List;
 import java.util.Optional;
 
+import com.ejercicio6.jpa.services.ContactsService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
